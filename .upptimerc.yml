@@ -18,6 +18,9 @@ sites:
       - 200
       - 405
 
+workflowSchedule:
+  graphs: "0 */6 * * *"
+
 status-website:
   baseUrl: /upptime
   name: CourseGPT Status
