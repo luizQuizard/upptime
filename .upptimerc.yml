@@ -20,6 +20,7 @@ sites:
 
 workflowSchedule:
   graphs: "*/30 * * * *"
+  responseTime: "*/30 * * * *"
 
 status-website:
   baseUrl: /upptime
