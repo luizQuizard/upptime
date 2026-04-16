@@ -19,7 +19,7 @@ sites:
       - 405
 
 workflowSchedule:
-  graphs: "0 */6 * * *"
+  graphs: "*/30 * * * *"
 
 status-website:
   baseUrl: /upptime
