@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.allnighter.ai.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 188,
-    "timeDay": 168,
-    "timeWeek": 140,
-    "timeMonth": 154,
-    "timeYear": 188,
-    "dailyMinutesDown": {
-      "2026-07-08": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 189,
+    "timeDay": 208,
+    "timeWeek": 144,
+    "timeMonth": 156,
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API Application",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.allnighter.ai.ico",
     "slug": "api-application",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 146,
-    "timeWeek": 127,
-    "timeMonth": 143,
+    "timeDay": 177,
+    "timeWeek": 130,
+    "timeMonth": 144,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2026-07-08": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ingestion Service",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2246,
-    "timeDay": 1754,
-    "timeWeek": 1623,
-    "timeMonth": 1813,
-    "timeYear": 2246,
+    "time": 2247,
+    "timeDay": 1839,
+    "timeWeek": 1638,
+    "timeMonth": 1820,
+    "timeYear": 2247,
     "dailyMinutesDown": {
       "2026-05-08": 143
     }
