@@ -12,13 +12,12 @@ sites:
     expectedStatusCodes:
       - 200
 
-  # Endpoint POST-only: Ingestion.process_document (CourseGPTBackend prefect/modal_run.py).
-  # 405 e a resposta esperada e significa "app deployado e roteando".
-  # Falha real aparece como 404 (label morto no Modal) ou 0 (sem conexao).
+  # Health endpoint da classe Ingestion (CourseGPTBackend prefect/modal_run.py).
+  # Nao apontar para --document: aquele endpoint e POST-only e todo GET vira 405 no log do Modal.
   - name: Ingestion Service
-    url: https://quizardai--document.modal.run
+    url: https://quizardai--ingestion-health.modal.run
     expectedStatusCodes:
-      - 405
+      - 200
 
 workflowSchedule:
   graphs: "*/5 * * * *"
