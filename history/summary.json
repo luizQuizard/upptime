@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 144,
-    "timeWeek": 175,
+    "time": 194,
+    "timeDay": 136,
+    "timeWeek": 173,
     "timeMonth": 206,
-    "timeYear": 195,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -29,30 +29,31 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 134,
-    "timeWeek": 147,
-    "timeMonth": 166,
+    "timeDay": 125,
+    "timeWeek": 145,
+    "timeMonth": 165,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
     "name": "Ingestion Service",
-    "url": "https://quizardai--document.modal.run",
-    "icon": "https://icons.duckduckgo.com/ip3/quizardai--document.modal.run.ico",
+    "url": "https://quizardai--ingestion-health.modal.run",
+    "icon": "https://icons.duckduckgo.com/ip3/quizardai--ingestion-health.modal.run.ico",
     "slug": "ingestion-service",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 2082,
-    "timeDay": 2435,
-    "timeWeek": 2279,
-    "timeMonth": 1904,
-    "timeYear": 2082,
+    "time": 2080,
+    "timeDay": 2167,
+    "timeWeek": 2257,
+    "timeMonth": 1900,
+    "timeYear": 2080,
     "dailyMinutesDown": {
-      "2026-05-08": 143
+      "2026-05-08": 143,
+      "2026-08-13": 0
     }
   }
 ]
