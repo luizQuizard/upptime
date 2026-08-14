@@ -12,11 +12,12 @@ sites:
     expectedStatusCodes:
       - 200
 
+  # Health endpoint da classe Ingestion (CourseGPTBackend prefect/modal_run.py).
+  # Nao apontar para --document: aquele endpoint e POST-only e todo GET vira 405 no log do Modal.
   - name: Ingestion Service
-    url: https://quizardai--document.modal.run
+    url: https://quizardai--ingestion-health.modal.run
     expectedStatusCodes:
       - 200
-      - 405
 
 workflowSchedule:
   graphs: "*/5 * * * *"
