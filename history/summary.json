@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 174,
-    "timeWeek": 179,
-    "timeMonth": 208,
-    "timeYear": 195,
+    "time": 194,
+    "timeDay": 139,
+    "timeWeek": 174,
+    "timeMonth": 205,
+    "timeYear": 194,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 167,
-    "timeWeek": 149,
-    "timeMonth": 167,
+    "timeDay": 133,
+    "timeWeek": 146,
+    "timeMonth": 165,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -41,18 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/quizardai--document.modal.run.ico",
     "slug": "ingestion-service",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 2078,
-    "timeDay": 3494,
-    "timeWeek": 2274,
-    "timeMonth": 1884,
-    "timeYear": 2078,
+    "uptime": "99.85%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.85%",
+    "time": 2079,
+    "timeDay": 2137,
+    "timeWeek": 2256,
+    "timeMonth": 1900,
+    "timeYear": 2079,
     "dailyMinutesDown": {
-      "2026-05-08": 143
+      "2026-05-08": 143,
+      "2026-08-14": 107,
+      "2026-08-13": 8
     }
   }
 ]
