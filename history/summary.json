@@ -41,20 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quizardai--ingestion-health.modal.run.ico",
     "slug": "ingestion-service",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "38.66%",
-    "uptimeWeek": "91.24%",
-    "uptimeMonth": "97.98%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.92%",
     "time": 2085,
     "timeDay": 2596,
     "timeWeek": 2352,
     "timeMonth": 1921,
     "timeYear": 2085,
     "dailyMinutesDown": {
-      "2026-05-08": 143,
-      "2026-08-14": 875,
-      "2026-08-13": 8
+      "2026-05-08": 143
     }
   }
 ]
