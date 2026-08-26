@@ -1,7 +1,7 @@
 url: https://api.allnighter.ai/h
-status: up
-code: 200
-responseTime: 54
-lastUpdated: 2026-08-26T20:29:41.434Z
+status: down
+code: 502
+responseTime: 209
+lastUpdated: 2026-08-26T21:01:55.631Z
 startTime: 2026-04-16T00:20:27.882Z
 generator: Upptime <https://github.com/upptime/upptime>
